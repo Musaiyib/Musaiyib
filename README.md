@@ -25,22 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musaiyib&show_icons=true&locale=en" alt="musaiyib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaiyib&" alt="musaiyib" /></p>
-- 👨‍💻 All of my projects are available at [https://linktr.ee/musaiyib](https://linktr.ee/musaiyib)
 
-- 💬 Ask me about **ReactJS/NextJS, Typescript, JavaScript, NodeJS and MongoDB**
-
-- 📫 How to reach me **Myusoro@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14BoG7Ex4jP1FZgIP1S20lssc8-_BAGON/view?usp=drivesdk](https://drive.google.com/file/d/14BoG7Ex4jP1FZgIP1S20lssc8-_BAGON/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-
-<!---
-Musaiyib/Musaiyib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
