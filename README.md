@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/musaiyib](https://linktr.ee/musaiyib)
 
-- 💬 Ask me about **ReactJS/NextJS, Typescript, JavaScript, NodeJS and MongoDB**
+- 💬 Ask me about **ReactJS/NextJS, React Native, Typescript, JavaScript, NodeJS and MongoDB**
 
 - 📫 How to reach me **Myusoro@gmail.com**
 
